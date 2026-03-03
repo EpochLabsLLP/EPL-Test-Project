@@ -2,7 +2,7 @@
 <!-- Run /trace-check to regenerate this file -->
 
 # Work Ledger
-**Generated:** 2026-03-03 16:42:57
+**Generated:** 2026-03-03 16:49:16
 **Status:** CLEAN
 
 ## Spec Readiness
@@ -16,7 +16,7 @@
 ## Traceability Chain
 PVD-1: Task Creation
   └─ ES-1.1: CLI Module
-      └─ BP-1.1.1 → TP-1.1.1 ✓ → (no WO yet)
+      └─ BP-1.1.1 → TP-1.1.1 ✓ → WO-1.1.1-A [DONE]
 
 PVD-2: Task Listing
   └─ ES-2.1: Task Engine
@@ -31,5 +31,5 @@ PVD-3: Task Completion
 No active Work Orders.
 
 ## Progress
-Blueprint tasks: 3 | With WOs: 2 | Completed: 2 | In-Progress: 0 | Failed: 0 | Pending: 0
-Coverage: 66% of tasks have Work Orders
+Blueprint tasks: 3 | With WOs: 3 | Completed: 3 | In-Progress: 0 | Failed: 0 | Pending: 0
+Coverage: 100% of tasks have Work Orders
